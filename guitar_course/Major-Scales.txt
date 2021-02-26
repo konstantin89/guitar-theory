@@ -1,0 +1,9 @@
+Notes: A A# B C C# D D# E F F# G G#
+
+Major scale
+
+W W H W W W H
+
+The first note of the scale defines its name.
+
+G major scale: G -- A -- B - C -- D -- E -- F# - G
