@@ -4,9 +4,23 @@
 
 ![](img/guitar_octaves.PNG)
 
+
+---
 </br>
 
-## Chord Construction 
+
+## Scales
+
+![](img/major_scale_formula.PNG)
+
+![](img/minor_scale_formula.PNG)
+
+
+---
+</br>
+
+
+## Triads
 
 ### Major Triads
 
@@ -40,3 +54,22 @@ Minor G Scale: G A A# C D D# F G
 Minor G Triad: G(1) A#(3) D(5)
 
 ```
+
+
+---
+</br>
+
+
+## Power Chords
+
+Power chord are contructed from the root and the 5th.  
+For example, look in G major power chord:  
+
+G A B C D E F# G  
+
+G - root  
+D - 5th  
+
+
+---
+</br>
