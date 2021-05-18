@@ -11,10 +11,36 @@
 
 ## Scales
 
+### Minor/Major
+
 ![](img/major_scale_formula.PNG)
 
 ![](img/minor_scale_formula.PNG)
 
+### Pentatonic Minor Scale
+
+Pentatonic minor scale is minor scale where the 2nd and 6th notes are removed.  
+
+```
+For example:  
+ Minor A :           A B C D E F G
+ Minor A Pentatonic: A C D E G
+
+```
+
+### Pentatonic Minor Blues Scale
+
+Pentatonic minor blues scale is same as minor pentatonics,  
+ with one added note, the b5.  
+
+
+```
+For example:  
+ Minor A :                 A B C D E F G
+ Minor A Pentatonic:       A C D E G
+ Minor A blues Pentatonic: A C D Eb E G
+
+```
 
 ---
 </br>
@@ -38,7 +64,6 @@ Major G Triad: G(1) B(3) D(5)
 
 ```
 
-
 ### Minor Triads
 
 Minor triad consists of 1,3,5 of the minor scale.  
@@ -54,6 +79,10 @@ Minor G Scale: G A A# C D D# F G
 Minor G Triad: G(1) A#(3) D(5)
 
 ```
+
+### Examples
+
+![](img/triads.PNG)
 
 
 ---
@@ -73,3 +102,7 @@ D - 5th
 
 ---
 </br>
+
+## Music Intervals
+
+![](img/intervals.PNG)
