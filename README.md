@@ -1,5 +1,14 @@
 # Guitar Theory
 
+## Links
+
+[Pentatonic scale licks](pentatonic_scale/README.md)
+
+
+---
+</br>
+
+
 ## Guitar notes
 
 ![](img/guitar_octaves.PNG)
