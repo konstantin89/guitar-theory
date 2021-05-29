@@ -1,4 +1,9 @@
-# Pentatonic Scales
+# Pentatonic Scale
+
+## Shapes
+
+![](minor_pentatonic_shapers.jpg)
+
 
 ## Licks
 
