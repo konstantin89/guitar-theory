@@ -2,7 +2,8 @@
 
 ## Links
 
-[Pentatonic scale licks](pentatonic_scale/README.md)
+[Pentatonic scale licks](pentatonic_scale/README.md)  
+[Triads](triads/README.md)  
 
 
 ---
@@ -55,49 +56,6 @@ For example:
 </br>
 
 
-## Triads
-
-### Major Triads
-
-Major triad consists of 1,3,5 of the major scale.  
-
-```
-For example - Major G Triad
-
-Major Scale: W W H W W W H
-
-Major G Scale: G A B C D E F# G  
-               1 2 3 4 5 6 7  8
-
-Major G Triad: G(1) B(3) D(5)
-
-```
-
-### Minor Triads
-
-Minor triad consists of 1,3,5 of the minor scale.  
-
-```
-For example - Minor G Triad
-
-Minor Scale: W H W W H W W
-
-Minor G Scale: G A A# C D D# F G  
-               1 2 3  4 5 6  7 8
-
-Minor G Triad: G(1) A#(3) D(5)
-
-```
-
-### Examples
-
-![](img/triads.PNG)
-
-
----
-</br>
-
-
 ## Power Chords
 
 Power chord are contructed from the root and the 5th.  
@@ -115,3 +73,12 @@ D - 5th
 ## Music Intervals
 
 ![](img/intervals.PNG)
+
+
+---
+</br>
+
+## Modes 
+
+![](img/greek_modes.PNG)
+
